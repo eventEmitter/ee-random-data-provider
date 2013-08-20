@@ -6,11 +6,15 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.nohup
+.DS_Store
+._.DS_Store
+._*
+.apdisk
 
 pids
 logs
 results
 
-npm-debug.log
-
 node_modules
+npm-debug.log
