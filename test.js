@@ -6,4 +6,4 @@
 
 	var r = new R();
 
-	log.dir( r.get() );
+	log.dir( r.get(50) );

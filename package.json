@@ -1,7 +1,7 @@
 {
       "name":           "ee-random-data-provider"
     , "description":    "random data provider, returns cached data"
-    , "version":        "0.1.0"
+    , "version":        "0.1.1"
     , "homepage":       "https://github.com/eventEmitter/ee-random-data-provider"
     , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "repository": {
@@ -14,8 +14,8 @@
         "url":          "https://github.com/eventEmitter/ee-random-data-provider/issues"
     }
     , "dependencies": {
-          "ee-class":   "*"
-        , "ee-log":     "*"
+          "ee-class":   "0.4.x"
+        , "ee-log":     "0.2.x"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
