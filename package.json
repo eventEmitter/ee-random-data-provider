@@ -14,8 +14,8 @@
         "url":          "https://github.com/eventEmitter/ee-random-data-provider/issues"
     }
     , "dependencies": {
-          "ee-class":   "0.4.x"
-        , "ee-log":     "0.2.x"
+          "ee-class":   "~1.4.0"
+        , "ee-log":     "~2.0.2"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
