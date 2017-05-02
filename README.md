@@ -1,5 +1,7 @@
 # ee-random-data-provider
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-random-data-provider.svg)](https://greenkeeper.io/)
+
 
 ## install
 
